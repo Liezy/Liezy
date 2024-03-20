@@ -27,3 +27,7 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c6fb&height=120&section=footer"/>
+
+![snake animation](https://github.com/Liezy/Liezy/blob/output/github-contribution-grid-snake.svg)
+
+[![redme](https://github-readme-stats-vercel.app/api/pin/?username=Liezy&repo=Liezy&theme=react)](https://github.com/Liezy/Liezy)
