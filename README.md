@@ -15,13 +15,13 @@
 
 ### Main skills:
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.icons8.com/color/48/000000/html-5.png" />
-  <img align="center" alt="css" src="https://img.icons8.com/color/48/000000/css3.png" />
-  <img align="center" alt="js" src="https://img.icons8.com/color/48/000000/javascript.png" />
   <img align="center" alt="php" src="https://img.icons8.com/officel/48/000000/php-logo.png" />
   <img align="center" alt="python" src="https://img.icons8.com/color/48/000000/python.png" />
   <img align="center" alt="java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
   <img align="center" alt="c" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+  <img align="center" alt="js" src="https://img.icons8.com/color/48/000000/javascript.png" />
+  <img align="center" alt="html5" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  <img align="center" alt="css" src="https://img.icons8.com/color/48/000000/css3.png" />
 </div><br/>
 
 <div align="center">
