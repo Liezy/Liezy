@@ -18,6 +18,7 @@
   <img align="center" alt="php" src="https://img.icons8.com/officel/48/000000/php-logo.png" />
   <img align="center" alt="python" src="https://img.icons8.com/color/48/000000/python.png" />
   <img align="center" alt="java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img align="center" alt="django" src="https://img.icons8.com/color/48/000000/django.png" />
   <img align="center" alt="c" src="https://img.icons8.com/color/48/000000/c-programming.png" />
   <img align="center" alt="js" src="https://img.icons8.com/color/48/000000/javascript.png" />
   <img align="center" alt="html5" src="https://img.icons8.com/color/48/000000/html-5.png" />
